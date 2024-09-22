@@ -1,3 +1,3 @@
-# Microsoft and FCC Certificate in Foundational C\#  
+# Microsoft and FCC Certificate in C\#  
 
-Challenge 3: Develop conditional branching and looping structures
+Challenge 3: Develop conditional branching and looping structures.
